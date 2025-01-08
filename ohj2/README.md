@@ -1,0 +1,1 @@
+In this folder are the projects that were implemented for the course Programming 2. The code implementations are incomplete and scored 29-48/50.  These have had pre-built bases on which the functionality of the functions/chosen data structure has been implemented.  Numbers assignment made a graphical user interface on top of the completed implementation. 
