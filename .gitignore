@@ -1,0 +1,91 @@
+# --- C++ --- #
+# Kääntäjän tuottamat tiedostot
+*.o
+*.out
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.dylib
+
+# Käännöskansiot
+build/
+bin/
+dist/
+
+# Debug ja lokit
+*.log
+*.pdb
+*.idb
+*.ilk
+
+# IDE ja editorit
+.vscode/
+.idea/
+*.code-workspace
+*.sln
+*.vcxproj*
+*.ncb
+*.suo
+*.user
+*.opt
+*.plg
+.DS_Store
+Thumbs.db
+
+# CMake ja Makefile
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# --- Python --- #
+# Kääntäjän tuottamat tiedostot ja välimuistit
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+*.manifest
+*.spec
+
+# Virtuaaliympäristöt ja riippuvuudet
+venv/
+.env
+.venv/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+poetry.lock
+Pipfile.lock
+
+# Testaus ja raportit
+.coverage
+htmlcov/
+.tox/
+.nosetests
+.pytest_cache/
+.jupyter_cache/
+
+# Kehitystyökalut ja lokit
+*.log
+debug.log
+
+# Paketoidut ja asennetut tiedostot
+dist/
+build/
+site/
+*.egg
+*.wheel
+*.tar.gz
+
+# Notebook-välitallennukset
+.ipynb_checkpoints/
+
+# Käyttöjärjestelmäkohtaiset
+.DS_Store
+Thumbs.db
+
