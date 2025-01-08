@@ -1,0 +1,3 @@
+This is a template readme file to enforce main default branch. Edit this file as you see fit.
+
+This project is made for the course Data Structures and Algorithms. Parts of the project have been implemented by the course staff, my own modifications are in the data structure.cc and data structure.hh files, where functions have been created to create different connections between trains and stations. 
